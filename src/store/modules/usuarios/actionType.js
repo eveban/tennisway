@@ -1,0 +1,5 @@
+export const LIST_ALL_USUARIOS = 'LIST_ALL_USUARIOS';
+export const ADD_USUARIO = 'ADD_USUARIO';
+export const EDIT_USUARIO = 'EDIT_USUARIO';
+export const DELETE_USUARIO = 'DELETE_USUARIO';
+
